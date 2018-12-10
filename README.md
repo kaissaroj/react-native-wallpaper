@@ -5,8 +5,8 @@ Set Wallpaper with react-native (Android only)
     npm install --save https://github.com/kaissaroj/react-native-wallpaper.git
   
 ## Link
-
-    react-native link react-native-walle
+     react-native link react-native-walle
+    
 ## Usage
 
     import RNWalle from "react-native-walle";
