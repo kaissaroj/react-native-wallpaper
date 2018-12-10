@@ -7,7 +7,6 @@ Set Wallpaper with react-native (Android only)
 ## Link
 
     react-native link react-native-walle
-
 ## Usage
 
     import RNWalle from "react-native-walle";
@@ -17,3 +16,8 @@ Set Wallpaper with react-native (Android only)
       //res : 'success'
       //res : 'failed' or 'reason to fail while trying to set wallpaper'
     });
+    
+    
+<h3>#Feel free to Contribute<h3>
+
+
