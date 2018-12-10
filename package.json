@@ -1,0 +1,21 @@
+{
+
+  "author": "Saroj Subedi (sarojsubedi.info.np)",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Set Wallapaper (only android)",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-walle",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
+
